@@ -1,0 +1,21 @@
+.currencyConverterWrapper {
+  width: 350px;
+}
+
+.dropdownWrapper {
+  display: flex;
+  justify-content: space-between;
+
+  label {
+    width: 48%;
+  }
+}
+
+.amountInput {
+  margin-bottom: 15px;
+}
+
+.buttonWrapper {
+  display: flex;
+  justify-content: center;
+}
